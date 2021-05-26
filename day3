@@ -1,0 +1,11 @@
+d1 = {"Name":"Cemal", "Surname":"Ozturk" }
+
+d2 = {"Age":28, "Occupation":"Ph.D. Student" }
+
+d3 = {"English Proficiency":"Advanced", "Programming Skills":"Abaqus, SolidWorks" }
+
+d4 = {"Bachelor Degree":"Metallurgy and Materials Engineering", "MSc Degree":"Nuclear Science and Engineering" }
+
+d5 = {"Ph.D Degree":"Corrosion Engineering, -Ongoing-", "Interested Subjects":"Artificial intelligence, Metal casting, designing an experiments" }
+
+d1,d2,d3,d4,d5
